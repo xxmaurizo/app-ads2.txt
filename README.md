@@ -1,2 +1,3 @@
-# app-ads2.txt
-hujbvyugb
+# google.com, pub-3663506626738176, DIRECT, f08c47fec0942fa0
+
+
